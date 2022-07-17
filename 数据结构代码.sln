@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性表_单链表", "线�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性表_双向链表", "线性表_双向链表\线性表_双向链表.vcxproj", "{31532596-85D8-481D-AC74-A970E7E6A07C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环队列", "循环队列\循环队列.vcxproj", "{F0B12CA6-28A2-45CE-B412-C47CB214D11E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{31532596-85D8-481D-AC74-A970E7E6A07C}.Release|x64.Build.0 = Release|x64
 		{31532596-85D8-481D-AC74-A970E7E6A07C}.Release|x86.ActiveCfg = Release|Win32
 		{31532596-85D8-481D-AC74-A970E7E6A07C}.Release|x86.Build.0 = Release|Win32
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Debug|x64.ActiveCfg = Debug|x64
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Debug|x64.Build.0 = Debug|x64
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Debug|x86.Build.0 = Debug|Win32
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Release|x64.ActiveCfg = Release|x64
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Release|x64.Build.0 = Release|x64
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Release|x86.ActiveCfg = Release|Win32
+		{F0B12CA6-28A2-45CE-B412-C47CB214D11E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
